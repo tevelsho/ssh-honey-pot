@@ -1,3 +1,5 @@
+# SSH Honey Pot
+
 This Python script sets up an SSH honeypot to capture credentials of attackers attempting to log into an SSH server. It uses the Paramiko library to create a fake SSH server that accepts connections and logs login attempts.
 
 Modules Used
